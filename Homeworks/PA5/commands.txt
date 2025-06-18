@@ -1,0 +1,5 @@
+search "My" in "series_title"
+search "Love" in "series_title"
+sort "released_year"
+sort "imdb_rating"
+search "True" in "movie_name"
