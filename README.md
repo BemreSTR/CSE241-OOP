@@ -20,7 +20,7 @@ Here, you'll find:
 
 ## 🧰 Languages & Tools
 - 💻 **C++**
-- 💻 **Java+**
+- 💻 **Java**
 - 🏗 Object-Oriented Design
 - 🧩 Polymorphism, Inheritance, Encapsulation
 - 📚 STL (Standard Template Library)
@@ -48,8 +48,7 @@ Here, you'll find:
 
 ```bash
 .
-├── HW1/                   # Homework 1
-├── HW2/
-├── Project/               # Final or term project
-├── Examples/              # Practice code and concepts
-└── README.md              # This file
+├── HW1/               
+├── Homeworks
+├── PS'S
+└── README.md              
