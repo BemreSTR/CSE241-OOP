@@ -20,7 +20,7 @@ Here, you'll find:
 
 ## 🧰 Languages & Tools
 - 💻 **C++**
-- - 💻 **Java+**
+- 💻 **Java+**
 - 🏗 Object-Oriented Design
 - 🧩 Polymorphism, Inheritance, Encapsulation
 - 📚 STL (Standard Template Library)
